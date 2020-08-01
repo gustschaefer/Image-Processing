@@ -1,3 +1,11 @@
+'''
+    Example taken from the opencv tutorials 
+    https://docs.opencv.org/3.4/da/de7/tutorial_table_of_content_photo.html
+    
+    Track the blue color that appear on the video
+
+'''
+
 import cv2 as cv
 import numpy as np
 cap = cv.VideoCapture(0)
