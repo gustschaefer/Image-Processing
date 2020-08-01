@@ -2,7 +2,7 @@ import cv2
 import os
 import glob
 
-input_dir = "C:/Users/Lucimara Santos/Pictures/Tolkien"
+input_dir = "C:/PATH"
 new_dir = "C:/RESIZE"
 new_size = (1920, 1080)
 
